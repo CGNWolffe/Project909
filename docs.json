@@ -61,26 +61,67 @@
         ]
       },
       {
-        "tab": "Divisions",
+        "tab": "SBCSD",
         "groups": [
           {
-            "group": "Police Divisions",
+            "group": "Department",
             "pages": [
-              "divisions/highway-safety",
+              "sbcsd/overview",
+              "sbcsd/ranks",
+              "sbcsd/stations"
+            ]
+          },
+          {
+            "group": "Divisions",
+            "pages": [
               "divisions/k9",
               "divisions/emergency-response-team",
               "divisions/criminal-investigations",
               "divisions/air-operations"
             ]
+          }
+        ]
+      },
+      {
+        "tab": "CHP",
+        "groups": [
+          {
+            "group": "Department",
+            "pages": [
+              "chp/overview",
+              "chp/ranks"
+            ]
           },
           {
-            "group": "Fire Department",
+            "group": "Divisions",
+            "pages": [
+              "divisions/highway-safety"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Fire",
+        "groups": [
+          {
+            "group": "Department",
             "pages": [
               "fire/introduction",
+              "fire/ranks"
+            ]
+          },
+          {
+            "group": "Operations",
+            "pages": [
               "fire/apparatus",
               "fire/response"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "Dispatch",
+        "groups": [
           {
             "group": "Dispatch",
             "pages": [
