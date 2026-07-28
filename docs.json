@@ -9,6 +9,11 @@
     "dark": "#2f2a1c"
   },
   "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png",
+    "href": "/"
+  },
   "navbar": {
     "links": [
       {
@@ -16,11 +21,6 @@
         "href": "https://discord.gg"
       }
     ],
-    "logo": {
-  "light": "/logo/myLogo.png",
-  "dark": "/logo/myLogo.png",
-  "href": "/"
-}
     "primary": {
       "type": "button",
       "label": "Join Discord",
@@ -66,7 +66,7 @@
         ]
       },
       {
-        "tab": "sbcsd",
+        "tab": "SBCSD",
         "groups": [
           {
             "group": "Department",
@@ -79,8 +79,8 @@
           {
             "group": "Divisions",
             "pages": [
+              "divisions/specialized-enforcement",
               "divisions/k9",
-              "divisions/emergency-response-team",
               "divisions/criminal-investigations",
               "divisions/air-operations"
             ]
