@@ -10,8 +10,8 @@
   },
   "favicon": "/favicon.svg",
   "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.png",
+    "light": "/logo/myLogo.png",
+    "dark": "/logo/myLogo.png",
     "href": "/"
   },
   "navbar": {
