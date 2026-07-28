@@ -16,6 +16,11 @@
         "href": "https://discord.gg"
       }
     ],
+    "logo": {
+  "light": "/logo/light.svg",
+  "dark": "/logo/dark.svg",
+  "href": "/"
+}
     "primary": {
       "type": "button",
       "label": "Join Discord",
