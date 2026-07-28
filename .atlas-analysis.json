@@ -1,33 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+  "projectType": "general",
+  "projectName": "Project 909",
+  "projectDescription": "Official documentation hub for the Project 909 FiveM roleplay community, covering patrol procedures, specialized divisions, radio communication, dispatch protocols, and fire department operations.",
   "theme": "almond",
-  "name": "Project 909",
-  "description": "Official documentation hub for the Project 909 FiveM roleplay community.",
-  "colors": {
-    "primary": "#c8a24a",
-    "light": "#8a7d4e",
-    "dark": "#2f2a1c"
-  },
-  "favicon": "/favicon.svg",
-  "navbar": {
-    "links": [
-      {
-        "label": "Discord",
-        "href": "https://discord.gg"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Join Discord",
-      "href": "https://discord.gg"
-    }
-  },
-  "footer": {
-    "socials": {}
-  },
-  "icons": {
-    "library": "lucide"
-  },
+  "primaryColor": "#c8a24a",
+  "lightColor": "#8a7d4e",
+  "darkColor": "#2f2a1c",
   "navigation": {
     "tabs": [
       {
@@ -91,5 +69,34 @@
         ]
       }
     ]
-  }
+  },
+  "keyFeatures": [
+    "New member onboarding checklist and orientation",
+    "Standard operating procedures for patrol and enforcement",
+    "Specialized division guides (HSD, K9, ERT, CIB, AOD)",
+    "Fire department structure, apparatus, and response procedures",
+    "Dispatch operations and call priority system",
+    "Radio communication standards and ten-codes",
+    "NATO and APCO phonetic alphabet reference",
+    "Police report writing guide with templates",
+    "Uniform and equipment standards per division",
+    "Use of force and rules of engagement guidelines"
+  ],
+  "publicApiSurface": [
+    "New Member Checklist",
+    "Patrol SOP",
+    "Report Writing Guide",
+    "Radio Ten-Codes Reference",
+    "Phonetic Alphabet Reference",
+    "Highway Safety Division Guide",
+    "K9 Division Guide",
+    "Emergency Response Team Guide",
+    "Criminal Investigations Branch Guide",
+    "Air Operations Division Guide",
+    "Fire Department Introduction",
+    "Fire Apparatus and Callsigns",
+    "Fire Response Types",
+    "Dispatch Overview",
+    "Callsign Structure"
+  ]
 }
