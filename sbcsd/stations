@@ -1,0 +1,43 @@
+---
+title: "SBCSD Stations"
+sidebarTitle: "Stations"
+description: "SBCSD patrol areas, including Rancho Cucamonga Station and Victorville Station, and what patrol looks like in each."
+---
+
+SBCSD patrol operations are organized by station, each covering a distinct area of the county. Deputies are assigned to a station during onboarding and may request a transfer through their chain of command.
+
+<AccordionGroup>
+  <Accordion title="Rancho Cucamonga Station" icon="building-2">
+    Covers the west end of the county — dense urban and suburban patrol with heavy retail and commercial districts.
+
+    **What to expect**
+
+    - High call volume and short response times
+    - Frequent traffic enforcement along the I-15 and Foothill corridors
+    - Backup is usually close by
+    - Regular coordination with CHP on freeway incidents
+
+    Best suited to deputies who want steady, fast-paced patrol work.
+  </Accordion>
+
+  <Accordion title="Victorville Station" icon="mountain">
+    Covers the High Desert, north of the Cajon Pass — a much larger patrol area mixing urban centers with open desert highway.
+
+    **What to expect**
+
+    - Longer response times and greater distances between calls
+    - Significant coverage along the I-15 north corridor
+    - More self-reliance; backup may be several minutes out
+    - Lower call volume, but calls tend to run longer
+
+    Best suited to deputies comfortable handling calls independently.
+  </Accordion>
+</AccordionGroup>
+
+## Choosing a Station
+
+The two stations offer genuinely different patrol experiences. Rancho Cucamonga is high-tempo with support close at hand; Victorville is quieter but demands more independence. Neither is considered a more senior assignment than the other.
+
+<Note>
+  Station assignment does not affect rank or division eligibility. Deputies in specialized divisions may be called countywide regardless of home station.
+</Note>
