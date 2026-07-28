@@ -61,7 +61,7 @@
         ]
       },
       {
-        "tab": "sbcsd",
+        "tab": "SBCSD",
         "groups": [
           {
             "group": "Department",
@@ -83,45 +83,22 @@
         ]
       },
       {
-        "tab": "CHP",
+        "tab": "Divisions",
         "groups": [
           {
-            "group": "Department",
-            "pages": [
-              "chp/overview",
-              "chp/ranks"
-            ]
-          },
-          {
-            "group": "Divisions",
+            "group": "Police Divisions",
             "pages": [
               "divisions/highway-safety"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "Fire",
-        "groups": [
-          {
-            "group": "Department",
-            "pages": [
-              "fire/introduction",
-              "fire/ranks"
-            ]
           },
           {
-            "group": "Operations",
+            "group": "Fire Department",
             "pages": [
+              "fire/introduction",
               "fire/apparatus",
               "fire/response"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "Dispatch",
-        "groups": [
+          },
           {
             "group": "Dispatch",
             "pages": [
