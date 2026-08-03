@@ -73,7 +73,9 @@
             "pages": [
               "sbcsd/overview",
               "sbcsd/ranks",
-              "sbcsd/stations"
+              "sbcsd/stations",
+              "sbcsd/sop",
+              "sbcsd/uniform-sop"
             ]
           },
           {
