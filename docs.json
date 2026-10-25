@@ -92,6 +92,29 @@
         ]
       },
       {
+        "tab": "CHP",
+        "groups": [
+          {
+            "group": "Department",
+            "pages": [
+              "chp/overview",
+              "chp/ranks",
+              "chp/sop",
+              "chp/uniform-sop",
+              "chp/fleet"
+            ]
+          },
+          {
+            "group": "Divisions",
+            "pages": [
+              "chp/divisions/commercial-vehicle-enforcement",
+              "chp/divisions/k9",
+              "chp/divisions/motor-unit"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Divisions",
         "groups": [
           {
