@@ -73,6 +73,7 @@
             "group": "Department",
             "pages": [
               "sbcsd/overview",
+              "sbcsd/roster",
               "sbcsd/ranks",
               "sbcsd/stations",
               "sbcsd/sop",
@@ -98,6 +99,7 @@
             "group": "Department",
             "pages": [
               "chp/overview",
+              "chp/roster",
               "chp/ranks",
               "chp/sop",
               "chp/uniform-sop",
