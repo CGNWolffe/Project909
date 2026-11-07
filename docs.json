@@ -73,7 +73,6 @@
             "group": "Department",
             "pages": [
               "sbcsd/overview",
-              "sbcsd/roster",
               "sbcsd/ranks",
               "sbcsd/stations",
               "sbcsd/sop",
@@ -99,7 +98,6 @@
             "group": "Department",
             "pages": [
               "chp/overview",
-              "chp/roster",
               "chp/ranks",
               "chp/sop",
               "chp/uniform-sop",
@@ -112,6 +110,19 @@
               "chp/divisions/commercial-vehicle-enforcement",
               "chp/divisions/k9",
               "chp/divisions/motor-unit"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Roster",
+        "icon": "users",
+        "groups": [
+          {
+            "group": "Rosters",
+            "pages": [
+              "chp/roster",
+              "sbcsd/roster"
             ]
           }
         ]
